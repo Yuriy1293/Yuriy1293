@@ -1,4 +1,4 @@
-# Hey 👋, I'm Yuri!
+# Hey 👋, I'm Yuriy!
 
 ### Glad to see you here! 
 I am a developer and tech enthusiast. I started my journey in programming, and now I am deeply diving into **Data Science, Machine Learning, and Data Analysis** to build smart and efficient solutions.
@@ -10,7 +10,7 @@ I am a developer and tech enthusiast. I started my journey in programming, and n
 - 🔭 **I’m currently working on:** Personal data analysis projects, cleaning datasets, and building my first predictive Machine Learning models.
 - 🌱 **I’m currently learning:** Advanced Machine Learning algorithms, feature engineering, and optimization techniques.
 - 💬 **You can ask me about:** Python basics, data manipulation, or something not too difficult about data libraries ))
-- ⚡ **Fun fact:** I enjoy finding hidden patterns in messy datasets - it feels like solving a complex puzzle where numbers tell a unique story.
+
 
 ---
 
